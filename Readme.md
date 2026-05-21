@@ -1,0 +1,3 @@
+# Computer Organization And Architecture
+
+Entender a arquitetura de computadores é crucial para otimização de software e hardware. Nesta disciplina, exploraremos a estrutura interna de sistemas computacionais, desde os circuitos lógicos até a memória e processadores. Ferramentas como o simulador MARS para MIPS serão utilizadas para demonstrar como o hardware influencia diretamente a performance e a eficiência energética dos sistemas que desenvolvemos.
